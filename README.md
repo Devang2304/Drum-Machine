@@ -10,14 +10,7 @@ you will here the sound which is becuase every character on the keyboard has a a
 
 Here you can find the demo link:
 
-- [Netlify](https://react-drum-machine-ni.netlify.app/)
-
-## :sparkles: Features ##
-
-:heavy_check_mark: &nbsp;Use of React Hooks<br />
-:heavy_check_mark: &nbsp;Use of React Context API<br />
-:heavy_check_mark: &nbsp;Audio stems playable by keyboard input<br />
-:heavy_check_mark: &nbsp;Look &amp; Feel inspired by 'Maschine Mikro M3' from Native Instruments.
+- [Github](https://devang2304.github.io/Drum-Machine/)
 
 ## :rocket: Technologies ##
 
