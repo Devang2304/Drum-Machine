@@ -17,7 +17,7 @@ Here you can find the demo link:
 - [JAVASCRIPT]
 - [CSS3]
 - [HTML5]
-- [Netlify - Responsible for the deploy (have a look below)](https://www.netlify.com/)
+- [Github - Responsible for the deploy ]
 
 
 
